@@ -1,0 +1,17 @@
+id,data_set_id,column_name,column_data_type,total_records,info_type
+1,1,Area,int,500000,0
+2,1,Garage,int,500000,0
+3,1,Fireplace,int,500000,0
+4,1,Baths,int,500000,0
+5,1,"White Marble",int,500000,0
+6,1,"Black Marble",int,500000,0
+7,1,"Indian Marble",int,500000,0
+8,1,Floors,int,500000,0
+9,1,City,int,500000,0
+10,1,Solar,int,500000,0
+11,1,Electric,int,500000,0
+12,1,Fiber,int,500000,0
+13,1,"Glass Doors",int,500000,0
+14,1,"Swiming Pools",int,500000,0
+15,1,Garden,int,500000,0
+16,1,Prices,int,500000,0

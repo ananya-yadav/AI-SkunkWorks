@@ -1,0 +1,17 @@
+id,data_set_id,model_id
+1,1,GBM_1_AutoML_20190417_203913
+2,1,StackedEnsemble_AllModels_AutoML_20190417_203913
+3,1,StackedEnsemble_BestOfFamily_AutoML_20190417_203913
+4,1,GLM_grid_1_AutoML_20190417_203913_model_1
+5,1,GBM_2_AutoML_20190417_182705
+6,1,GBM_1_AutoML_20190417_182705
+7,1,GLM_grid_1_AutoML_20190417_181353_model_1
+8,1,GLM_grid_1_AutoML_20190417_182705_model_1
+9,1,StackedEnsemble_BestOfFamily_AutoML_20190417_181353
+10,1,StackedEnsemble_AllModels_AutoML_20190417_181353
+11,1,GBM_3_AutoML_20190422_192649
+12,1,GBM_2_AutoML_20190422_192649
+13,1,GBM_1_AutoML_20190422_192649
+14,1,StackedEnsemble_AllModels_AutoML_20190422_192649
+15,1,StackedEnsemble_BestOfFamily_AutoML_20190422_192649
+16,1,GLM_grid_1_AutoML_20190422_192649_model_1
